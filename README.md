@@ -19,5 +19,5 @@ For Swagger - Navigate to `http://localhost:8080/swagger-ui.html`.
 For H2 database - Navigate to `http://localhost:8080/h2-console/`.
 
 Valid user account:
-`**username:** admin`
-`**password:** admin`
+**username:** `admin`
+**password:** `admin`
